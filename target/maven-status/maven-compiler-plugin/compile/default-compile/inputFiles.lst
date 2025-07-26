@@ -1,0 +1,16 @@
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/controller/WebController.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/config/properties/FirebaseProperties.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/model/DashboardData.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/config/SecurityConfig.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/model/ExternalApiData.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/service/FirebaseService.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/model/JobData.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/controller/DataController.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/KittServiceApplication.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/model/ApiResponse.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/config/WebConfig.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/scheduler/ScheduledJobs.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/config/FirebaseConfig.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/service/ExternalApiService.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/config/properties/ExternalApiProperties.java
+/Users/souravbg/Desktop/HackProject/Backend/agenticAI-backend/src/main/java/com/example/kitt/service/DataService.java

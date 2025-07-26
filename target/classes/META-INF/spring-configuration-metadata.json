@@ -1,0 +1,93 @@
+{
+  "groups": [
+    {
+      "name": "external.api",
+      "type": "com.example.kitt.config.properties.ExternalApiProperties",
+      "sourceType": "com.example.kitt.config.properties.ExternalApiProperties"
+    },
+    {
+      "name": "firebase",
+      "type": "com.example.kitt.config.properties.FirebaseProperties",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "external.api.base-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.ExternalApiProperties"
+    },
+    {
+      "name": "external.api.data-endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.ExternalApiProperties"
+    },
+    {
+      "name": "external.api.job1-endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.ExternalApiProperties"
+    },
+    {
+      "name": "external.api.job2-endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.ExternalApiProperties"
+    },
+    {
+      "name": "external.api.job3-endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.ExternalApiProperties"
+    },
+    {
+      "name": "external.api.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.kitt.config.properties.ExternalApiProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "firebase.auth-provider-x509-cert-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    },
+    {
+      "name": "firebase.auth-uri",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    },
+    {
+      "name": "firebase.client-email",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    },
+    {
+      "name": "firebase.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    },
+    {
+      "name": "firebase.client-x509-cert-url",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    },
+    {
+      "name": "firebase.private-key",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    },
+    {
+      "name": "firebase.private-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    },
+    {
+      "name": "firebase.project-id",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    },
+    {
+      "name": "firebase.token-uri",
+      "type": "java.lang.String",
+      "sourceType": "com.example.kitt.config.properties.FirebaseProperties"
+    }
+  ],
+  "hints": []
+}
